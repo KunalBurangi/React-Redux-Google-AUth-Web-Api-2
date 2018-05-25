@@ -1,0 +1,258 @@
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\ApplicationInsights.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\csc.exe
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\csc.exe.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\csc.rsp
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\csi.exe
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\csi.rsp
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\System.AppContext.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\vbc.exe
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\vbc.exe.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\vbc.rsp
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\VBCSCompiler.exe
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Api.dll.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Api.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Api.pdb
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Antlr3.Runtime.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\EntityFramework.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\EntityFramework.SqlServer.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.Web.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.ApplicationInsights.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Newtonsoft.Json.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Owin.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Repository.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Services.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Net.Http.Formatting.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Helpers.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.Owin.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.WebHost.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Mvc.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Optimization.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Razor.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.WebPages.Deployment.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.WebPages.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.WebPages.Razor.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\WebGrease.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Repository.pdb
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Repository.dll.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Services.pdb
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Services.dll.config
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\EntityFramework.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\EntityFramework.SqlServer.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Newtonsoft.Json.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Net.Http.Formatting.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Helpers.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.WebHost.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Mvc.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Optimization.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Razor.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.WebPages.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.WebPages.Deployment.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.WebPages.Razor.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Antlr3.Runtime.pdb
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.Owin.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.ApplicationInsights.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.AI.Web.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\obj\Debug\Api.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\obj\Debug\Api.pdb
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Autofac.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Autofac.Integration.WebApi.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\NLog.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Autofac.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Autofac.Integration.WebApi.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\NLog.xml
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\obj\Debug\Api.Migrations.Initialmigrate.resources
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\obj\Debug\Api.csproj.GenerateResource.Cache
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Entities.dll
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Entities.pdb
+c:\users\kunalburangi\documents\visual studio 2017\Projects\Task-5-16-18\Api\bin\Entities.dll.config
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Cors.dll
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.Cors.dll
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\System.Web.Http.Cors.xml
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Hosting.dll
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Testing.dll
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Hosting.xml
+C:\Users\kunalburangi\Documents\Visual Studio 2017\Projects\Task-5-16-18\Api\bin\Microsoft.Owin.Testing.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\ApplicationInsights.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\csc.exe
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\csc.exe.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\csc.rsp
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\csi.exe
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\csi.rsp
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\System.AppContext.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\System.Collections.Immutable.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\System.IO.FileSystem.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\vbc.exe
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\vbc.exe.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\vbc.rsp
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\VBCSCompiler.exe
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\roslyn\VBCSCompiler.exe.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Api.dll.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Api.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Api.pdb
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Antlr3.Runtime.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Autofac.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Autofac.Integration.WebApi.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Entities.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\EntityFramework.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\EntityFramework.SqlServer.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.Web.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.WindowsServer.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.ApplicationInsights.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Hosting.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Google.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Testing.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Web.Infrastructure.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Newtonsoft.Json.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\NLog.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Owin.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Repository.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Services.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Net.Http.Formatting.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Cors.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Helpers.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.Cors.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.Owin.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.WebHost.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Mvc.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Optimization.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Razor.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.WebPages.Deployment.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.WebPages.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.WebPages.Razor.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\WebGrease.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Entities.pdb
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Entities.dll.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Repository.pdb
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Repository.dll.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Services.pdb
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Services.dll.config
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Autofac.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Autofac.Integration.WebApi.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\EntityFramework.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\EntityFramework.SqlServer.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Hosting.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Testing.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\NLog.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Net.Http.Formatting.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.Cors.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Newtonsoft.Json.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Helpers.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.WebHost.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Mvc.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Optimization.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Razor.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.WebPages.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.WebPages.Deployment.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.WebPages.Razor.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Antlr3.Runtime.pdb
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Google.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\System.Web.Http.Owin.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.ApplicationInsights.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.WindowsServer.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\bin\Microsoft.AI.Web.xml
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\obj\Debug\Api.Migrations.Initialmigrate.resources
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\obj\Debug\Api.csproj.GenerateResource.Cache
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\obj\Debug\Api.dll
+D:\DayUsers\Task-16-5 React redux APi\Task-5-16-18\Api\obj\Debug\Api.pdb
